@@ -1,0 +1,237 @@
+body {
+  background-color: #accfcb;
+  font-family: Stencil Std;
+}
+.main {
+  width: 1200px;
+  height: 3850px;
+  background-image: url(../img/bg1.png);
+  margin: auto;
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+.top-line-logo {
+  color: #accfcb;
+  font-size: 30px;
+  padding: 12px 0 0 22px;
+  display: inline-block;
+}
+.top-line-menu {
+  display: inline-block;
+  list-style: none;
+  float: right;
+  padding: 12px 35px 0 0;
+}
+.top-line-menu li {
+  padding-left: 25px;
+  display: inline;
+  font-family: Playfair Display SC;
+  font-size: 30px;
+  color: #accfcb;
+}
+.text-hello {
+  padding-top: 100px;
+}
+.text-hello-p {
+  text-align: center;
+  color: #890916;
+  font-size: 48px;
+  line-height: 1.2;
+}
+.text-hello-p span {
+  color: #accfcb;
+  background-color: #890916;
+  padding-left: 12px;
+  margin-left: -5px;
+}
+.step-one {
+  text-align: center;
+  color: #890916;
+  padding-top: 110px;
+}
+.step-one-p {
+  margin: auto;
+  width: 270px;
+  text-align: left;
+  font-size: 38px;
+  line-height: 1.2;
+}
+.step-one-p span{
+  background-color: #accfcb;
+}
+.step-one-p-padding-1 {
+  padding-left: 12px;
+}
+.step-one-p-padding-2 {
+  padding: 0 10px 0 12px;
+}
+.step-one-img {
+  padding: 30px 25px 0 25px;
+}
+.step-one-img1 {
+  border: 15px solid #accfcb;
+  padding: 0 0 0 0;
+  margin-top: 30px;
+  width: 34%;
+}
+.step-one-img2 {
+  border: 15px solid #accfcb;
+  padding: 0 0 0 0;
+  margin: 0 10px 0 10px;
+  width: 29%;
+}
+.step-one-img3 {
+  border: 15px solid #accfcb;
+  padding: 0 0 0 0;
+  width: 34.4%;
+  margin-top: -100px;
+}
+.step-one-comment {
+  color: #890916;
+  font-size: 36px;
+  text-align: center;
+  padding-top: 18px;
+}
+.step-two {
+  text-align: center;
+  color: #accfcb;
+  padding-top: 105px;
+}
+.step-two-p {
+  margin: auto;
+  width: 480px;
+  text-align: right;
+  font-size: 38px;
+  line-height: 1.2;
+}
+.step-two-p span{
+  background-color: #890916;
+}
+.step-two-p-padding-1 {
+  padding: 0 10px 0 12px;
+}
+.step-two-p-padding-2 {
+  padding: 0 10px 0 12px;
+}
+.step-two-img {
+  padding: 30px 5px 0 70px;
+}
+.step-two-img1 {
+  padding: 0 0 0 0;
+  margin-top: 10px;
+  width: 40%;
+}
+.step-two-img2 {
+  padding: 0 0 0 0;
+  margin: 0 20px 0 20px;
+  width: 33%;
+  margin-top: -90px;
+}
+.step-two-img3 {
+  padding: 0 0 0 0;
+  width: 15%;
+  margin-top: -90px;
+}
+.step-two-comment {
+  color: #accfcb;
+  font-size: 36px;
+  text-align: center;
+  padding-top: 48px;
+}
+.step-three {
+  text-align: center;
+  color: #890916;
+  padding-top: 133px;
+}
+.step-three-p {
+  margin: auto;
+  width: 460px;
+  text-align: left;
+  font-size: 38px;
+  line-height: 1.2;
+}
+.step-three-p span{
+  background-color: #accfcb;
+}
+.step-three-p-padding-1 {
+  padding: 0 10px 0 12px;
+}
+.step-three-p-padding-2 {
+  padding: 0 10px 0 12px;
+}
+.step-three {
+  padding: 120px 5px 0 5px;
+}
+.step-three-img1 {
+  width: 17%;
+  margin: 0 10px 0 10px;
+}
+.step-three-img2 {
+  width: 17%;
+    margin: 0 10px 0 10px;
+}
+.step-three-img3 {
+  width: 17%;
+    margin: 0 10px 0 10px;
+}
+.step-three-img4 {
+  width: 17%;
+    margin: 0 10px 0 10px;
+}
+.step-three-img5 {
+  width: 30%;
+    margin: 30px 30px 0 100px;
+}
+.step-three-img6 {
+  width: 31%;
+    margin: 22px 100px 0 30px;
+}
+.step-three-img7 {
+  width: 24%;
+  margin: 15px 15px 0 15px;
+}
+.step-three-img8 {
+  width: 25%;
+    margin: 40px 15px 0 15px;
+}
+.step-three-img9 {
+  width: 24%;
+    margin: 55px 15px 0 15px;
+}
+.step-three-comment {
+  color: #accfcb;
+  font-size: 36px;
+  text-align: center;
+  padding-top: 75px;
+}
+.step-four {
+  text-align: center;
+  color: #accfcb;
+  padding-top: 30px;
+}
+.step-four-p {
+  margin: auto;
+  width: 250px;
+  text-align: left;
+  font-size: 38px;
+  line-height: 1.2;
+}
+.step-four-p span{
+  background-color: #890916;
+}
+.step-four-p-padding-1 {
+  padding: 0 10px 0 12px;
+}
+.step-four-p-padding-2 {
+  padding: 0 10px 0 12px;
+}
+.contacts {
+  line-height: 2.2;
+  padding-top: 140px;
+  color: #accfcb;
+  font-size: 30px;
+  text-align: center;
+}
+.contacts-icon {
+  font-size: 50px;
+  padding-right: 10px;
+}
