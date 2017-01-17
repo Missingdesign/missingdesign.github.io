@@ -59,6 +59,7 @@ body {
 }
 
 .text-hello-p span {
+    padding-top: 2px;
     color: #accfcb;
     background-color: #890916;
     padding-left: 12px;
@@ -76,6 +77,7 @@ body {
 }
 
 .step-one-p {
+    padding-top: 2px;
     margin: auto;
     width: 270px;
     text-align: left;
@@ -88,11 +90,11 @@ body {
 }
 
 .step-one-p-padding-1 {
-    padding: 0 10px 0 12px;
+    padding: 2px 10px 0 12px;
 }
 
 .step-one-p-padding-2 {
-    padding: 0 10px 0 12px;
+    padding: 2px 10px 0 12px;
 }
 
 .step-one-img {
@@ -134,6 +136,7 @@ body {
 }
 
 .step-two-p {
+    padding-top: 2px;
     margin: auto;
     width: 480px;
     text-align: right;
@@ -146,11 +149,11 @@ body {
 }
 
 .step-two-p-padding-1 {
-    padding: 0 10px 0 12px;
+    padding: 2px 10px 0 12px;
 }
 
 .step-two-p-padding-2 {
-    padding: 0 10px 0 12px;
+    padding: 2px 10px 0 12px;
 }
 
 .step-two-img {
