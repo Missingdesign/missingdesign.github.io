@@ -488,6 +488,7 @@ body {
         font-size: 28px;
     }
     .text-hello-p span {
+      padding-top: 4px;
         padding-left: 7px;
         margin-left: -3px;
     }
@@ -495,14 +496,15 @@ body {
         padding-top: 50px;
     }
     .step-one-p {
+      padding-top: 4px;
         width: 150px;
         font-size: 25px;
     }
     .step-one-p-padding-1 {
-        padding: 0 6px 0 6px;
+        padding: 4px 6px 0 6px;
     }
     .step-one-p-padding-2 {
-        padding: 0 6px 0 6px;
+        padding: 4px 6px 0 6px;
     }
     .step-one-img {
         padding: 20px 10px 0 10px;
@@ -535,12 +537,13 @@ body {
     .step-two-p {
         width: 325px;
         font-size: 25px;
+        padding-top: 4px;
     }
     .step-two-p-padding-1 {
-        padding: 0 6px 0 6px;
+        padding: 4px 6px 0 6px;
     }
     .step-two-p-padding-2 {
-        padding: 0 6px 0 6px;
+        padding: 4px 6px 0 6px;
     }
     .step-two-img {
         padding: 10px 5px 0 15px;
@@ -780,4 +783,7 @@ body {
         font-size: 27px;
         padding-right: 5px;
     }
+}
+html {
+-webkit-text-size-adjust: none;
 }
